@@ -2,6 +2,8 @@
 	"name": "file-color",
 	"displayName": "file color",
 	"description": "pick a color for your files",
+	"icon": "icon.png",
+	"repository": "https://github.com/suntouse2/file-color",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.95.0"
